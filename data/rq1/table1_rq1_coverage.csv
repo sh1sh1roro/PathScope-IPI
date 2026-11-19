@@ -1,0 +1,9 @@
+attack_method,group,traces,scored_both,coverage_percent
+InjecAgent,IA-0,120,119,99.17
+InjecAgent,IA-1,120,108,90.00
+Conversational Attack,CA-0,90,87,96.67
+Conversational Attack,CA-1,90,77,85.56
+Important Instructions,IMP-0,120,115,95.83
+Important Instructions,IMP-1,120,104,86.67
+Total,,660,610,92.42
+

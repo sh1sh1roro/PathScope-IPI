@@ -1,0 +1,8 @@
+attack_method,group,pairs,attack_successes,user_task_successes,asr_percent,utility_percent
+InjecAgent,IA-0,108,18,64,16.67,59.26
+InjecAgent,IA-1,108,73,45,67.59,41.67
+Conversational Attack,CA-0,74,43,46,58.11,62.16
+Conversational Attack,CA-1,74,67,31,90.54,41.89
+Important Instructions,IMP-0,104,78,47,75.00,45.19
+Important Instructions,IMP-1,104,82,49,78.85,47.12
+

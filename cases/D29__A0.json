@@ -1,0 +1,45 @@
+{
+  "case_id": "D29__A0",
+  "record_type": "sanitized_summary",
+  "domain": "travel",
+  "goal": "Complete a hotel booking.",
+  "execution_status": "complete",
+  "events": [
+    {
+      "id": "D29__A0__e0001",
+      "role": "tool_proposal",
+      "summary": "A hotel lookup was proposed."
+    },
+    {
+      "id": "D29__A0__e0002",
+      "role": "tool_execution",
+      "summary": "The hotel lookup was executed."
+    },
+    {
+      "id": "D29__A0__e0003",
+      "role": "tool_return",
+      "summary": "The lookup produced a result."
+    },
+    {
+      "id": "D29__A0__e0004",
+      "role": "tool_proposal",
+      "summary": "A price lookup was proposed."
+    },
+    {
+      "id": "D29__A0__e0005",
+      "role": "tool_execution",
+      "summary": "The price lookup was executed."
+    },
+    {
+      "id": "D29__A0__e0006",
+      "role": "tool_return",
+      "summary": "The price lookup produced a result."
+    }
+  ],
+  "evidence_interpretation": "The case summary marks the run complete and reports no booking action.",
+  "reference_G": false,
+  "predictions_G": {
+    "Full PathScope": false,
+    "w/o GCES": true
+  }
+}

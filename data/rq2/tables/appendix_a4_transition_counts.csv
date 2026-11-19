@@ -1,0 +1,17 @@
+method,dimension,transition,full_error,ablated_error,count
+w/o GCES,C,correct_to_correct,correct,correct,464
+w/o GCES,C,correct_to_wrong,correct,false_positive,13
+w/o GCES,C,wrong_to_correct,false_negative,correct,8
+w/o GCES,C,wrong_to_wrong,false_positive,false_positive,14
+w/o GCES,G,correct_to_correct,correct,correct,320
+w/o GCES,G,correct_to_wrong,correct,false_positive,28
+w/o GCES,G,wrong_to_wrong,false_positive,false_positive,41
+w/o TRPV,C,correct_to_correct,correct,correct,474
+w/o TRPV,C,correct_to_wrong,correct,false_negative,1
+w/o TRPV,C,correct_to_wrong,correct,false_positive,2
+w/o TRPV,C,wrong_to_correct,false_negative,correct,8
+w/o TRPV,C,wrong_to_correct,false_positive,correct,8
+w/o TRPV,C,wrong_to_wrong,false_positive,false_positive,6
+w/o TRPV,G,correct_to_correct,correct,correct,296
+w/o TRPV,G,correct_to_wrong,correct,false_positive,52
+w/o TRPV,G,wrong_to_wrong,false_positive,false_positive,41

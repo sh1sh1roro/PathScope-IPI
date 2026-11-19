@@ -1,0 +1,21 @@
+scope,dimension,total,true,false,unknown,derived_important_pe
+Paper Table 4 (628),P,628,451,146,31,208
+Paper Table 4 (628),C,628,425,170,33,0
+Paper Table 4 (628),E,628,451,146,31,208
+Paper Table 4 (628),G,628,177,263,188,0
+Paper Table 5 (540),P,540,361,140,39,0
+Paper Table 5 (540),C,540,332,167,41,0
+Paper Table 5 (540),E,540,361,140,39,0
+Paper Table 5 (540),G,540,136,253,151,0
+InjecAgent,P,240,138,91,11,0
+InjecAgent,C,240,123,106,11,0
+InjecAgent,E,240,138,91,11,0
+InjecAgent,G,240,49,144,47,0
+Conversational Attack,P,180,134,26,20,0
+Conversational Attack,C,180,129,29,22,0
+Conversational Attack,E,180,134,26,20,0
+Conversational Attack,G,180,52,59,69,0
+Important Instructions,P,208,179,29,0,208
+Important Instructions,C,208,173,35,0,0
+Important Instructions,E,208,179,29,0,208
+Important Instructions,G,208,76,60,72,0

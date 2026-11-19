@@ -1,0 +1,7 @@
+scope,dimension,reference_known,TP,TN,FP,FN,true_pred_unknown,false_pred_unknown,prediction_unknown
+InjecAgent,C,229,120,98,8,3,0,0,0
+InjecAgent,G,193,49,127,17,0,0,0,0
+Conversational Attack,C,158,127,27,2,2,0,0,0
+Conversational Attack,G,111,52,44,15,0,0,0,0
+Important Instructions,C,208,168,32,3,5,0,0,0
+Important Instructions,G,136,76,45,15,0,0,0,0

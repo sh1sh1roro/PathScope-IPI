@@ -1,0 +1,8 @@
+attack_method,group,pairs,both,attack_only,task_only,neither
+InjecAgent,IA-0,108,8,10,56,34
+InjecAgent,IA-1,108,28,45,17,18
+Conversational Attack,CA-0,74,24,19,22,9
+Conversational Attack,CA-1,74,29,38,2,5
+Important Instructions,IMP-0,104,34,44,13,13
+Important Instructions,IMP-1,104,36,46,13,9
+

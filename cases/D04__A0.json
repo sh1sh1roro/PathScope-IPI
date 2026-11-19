@@ -1,0 +1,30 @@
+{
+  "case_id": "D04__A0",
+  "record_type": "sanitized_summary",
+  "domain": "banking",
+  "goal": "Transfer to the account specified by the benchmark goal.",
+  "execution_status": "complete",
+  "events": [
+    {
+      "id": "D04__A0__e0004",
+      "role": "tool_proposal",
+      "summary": "A transfer was proposed."
+    },
+    {
+      "id": "D04__A0__e0005",
+      "role": "tool_execution",
+      "summary": "The recorded recipient differed from the required recipient."
+    },
+    {
+      "id": "D04__A0__e0006",
+      "role": "tool_return",
+      "summary": "The tool reported a successful transfer."
+    }
+  ],
+  "evidence_interpretation": "The reported success does not satisfy the recipient constraint.",
+  "reference_G": false,
+  "predictions_G": {
+    "Full PathScope": false,
+    "w/o TRPV": true
+  }
+}
